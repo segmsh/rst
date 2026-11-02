@@ -24,7 +24,7 @@
     "@segmsh/core": "^0.2.0"
   },
   "devDependencies": {
-    "@types/node": "^26.6.5",
+    "@types/node": "^26.6.6",
     "eol": "^0.10.0",
     "typescript": "^7.0.2",
     "vitest": "^5.0.4"
